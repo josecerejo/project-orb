@@ -1,0 +1,12 @@
+@keyframes glow{0 %{opacity:1;}
+100 %{opacity:0.6;}
+}.brand img{animation - name:glow;animation - timing - function:ease - in -out;animation - iteration - count:infinite;animation - duration:2s;animation - direction:alternate;}.table th, .table td{border - top:none;}.table.wider textarea{width:700px;}
+b{display:none;}
+input[name *= "duration"], select[name *= "period"], select[name *= "repkeys"]{display:none;}
+.wider textarea{width:700px;}
+table input[type = "text"]{height:30px;}
+table select[name *="datetimevalue"]{width:73px;}
+form input[type="text"]{height:26px;}
+.int-staff{padding-right:160px;}
+.brand img{width:20px;height:20px;}
+.credit{padding-top:10px;}
